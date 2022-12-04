@@ -142,7 +142,7 @@ const App = () => {
                               <MDBCheckbox
                                 name="flexCheck"
                                 id="checkbox-1"
-                                label="I agree to all the terms and conditions."
+                                label="I agree to all of the terms and conditions."
                               />
                             </div>
                           </form>
